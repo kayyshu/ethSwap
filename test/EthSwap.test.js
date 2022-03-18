@@ -88,4 +88,8 @@ contract('EthSwap', ([deployer, investor]) =>{
 		assert.equal(event.rate.toString(), '100')
 		})
 	})
+<<<<<<< HEAD
 })
+=======
+})
+>>>>>>> 1d31df6d57dd0bb646ff6491c7b5addca8f2b1d8
