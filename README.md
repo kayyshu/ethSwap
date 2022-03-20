@@ -2,6 +2,12 @@
 Exchange rate - 1 Eth = 100 DApp
 
 
+
+
+
+
+
+
 Turn on Ganache's test server
 Please install Metamask and import one of the Ganache account using private key
 
